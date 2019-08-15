@@ -4,9 +4,11 @@
 
 就记录一些自己平时遇到的问题，以及部分学习心得。写得不是很多，大家多多指教！
 
-> 微信公众号：前端讲堂
-> 个人微信：zennuc
-> 个人博客地址：https://www.toobugs.com
+* 微信公众号：前端讲堂
+
+* 个人微信：zennuc
+
+* 个人博客地址：https://www.toobugs.com
 
 ![qrcode_for_js-say](Images/qrcode_for_js-say.jpg)
 ![qrcode_for_zennuc](Images/qrcode_for_zennuc.jpg)
