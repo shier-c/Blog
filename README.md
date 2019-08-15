@@ -8,8 +8,7 @@
 > 个人微信：zennuc
 > 个人博客地址：https://www.toobugs.com
 
-![qrcode_for_js-say](Images/qrcode_for_js-say.jpg)
-![qrcode_for_zennuc](Images/qrcode_for_zennuc.jpg)
+![qrcode_for_js-say](Images/qrcode_for_js-say.png)![qrcode_for_zennuc](Images/qrcode_for_zennuc.png)
 
 # 文章目录
 
