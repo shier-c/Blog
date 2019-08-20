@@ -2,10 +2,12 @@
  * @Description: In User Settings Edit
  * @Author: your name
  * @Date: 2019-08-20 22:35:09
- * @LastEditTime: 2019-08-21 01:42:37
- * @LastEditors: Please set LastEditors
+ * @LastEditTime: 2019-08-20 22:35:09
+ * @LastEditors: your name
  -->
 ### 前言
+由于个人学习需要，所以来研究一下怎么安装 `Spark`，但是由于个人的经济资源有限，所以还没有上集群，这里先试一下单机版的 `Spark`。后期有扩展的话，同步更新集群安装教程。
+
 > 以下一切操作都基于 `root` 用户。
 
 ### 0. 安装 Scala
